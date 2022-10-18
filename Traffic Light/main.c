@@ -40,10 +40,6 @@ void button_test()
 
 int main(void)
 {	
-	//DIO_test();
-	//LED_test();
-	//button_test();
-	
 	
 	
 	APP_init();		
